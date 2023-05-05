@@ -13,6 +13,6 @@ int main()
 	if (s == a)
 		cout << "\n day la so hoan thien";
 	else
-		cout << "\n day kp la so hoan thien";
+		cout << "\n day kp la so hoan thiennnn";
 	return 0;
 	}

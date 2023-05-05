@@ -14,5 +14,5 @@ int main()
 		cout << "\n day la so hoan thien";
 	else
 		cout << "\n day kp la so hoan thien";
-	return 0;
+	return 10;
 	}
